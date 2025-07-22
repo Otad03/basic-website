@@ -9,3 +9,4 @@ this is by no means perfect, it is just a project for our subject.
 - the home page has a change password, edit profile, help desk, team, and logout buttons
 - has a game on home page
 - can change password and username on the home page using change password and edit profile buttons
+- logout has a cool "logging off" transition
